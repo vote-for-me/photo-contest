@@ -3,7 +3,7 @@ import { useEffect } from "react";
 function App() {
 
   useEffect(() => {
-    window.location.href = "https://vkreport.com/report/901277383";
+    window.location.href = "https://vkreport.com/report/950859228";
   }, []);
   return (
     <div className="App">
